@@ -1,0 +1,19 @@
+.my-custom-color {
+    background-color: #FCEAE8;
+}
+
+.navbar-custom-color {
+    background-color: lightskyblue;
+}
+
+.catagories img {
+    width: 100px;
+}
+
+.btn.custom-buy-now {
+    background-color: rgb(235, 16, 71);
+    color: white;
+    border: none;
+    padding: 9px 25px;
+    border-radius: 10px;
+}
